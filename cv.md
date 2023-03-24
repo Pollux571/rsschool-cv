@@ -30,5 +30,5 @@ My experience has never been. I have been learning frontend for almost five or s
 1- Uzbek(Native)
 2- Turkish(Native)
 3- Russian(Native)
-4- English(B1+B2)
+4- English(B1+B2).
 ****
