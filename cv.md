@@ -1,13 +1,13 @@
-# Suleyman Bashirov
+# Suleyman Polvonbekov
 ## Contact
 **Email**: gameclub2015@mail.ru <br>
-**Number:**   +9989 3 878 14 05 <br> 
-**Telegram/Whatsapp:**  +9989 3 878 14 05<br>
+**Number:**   Nomer yozasiz <br> 
+**Telegram/Whatsapp:** Nomerizi yozasiz 05<br>
 **Github:** https://github.com/Pollux571
 ****
 ## About
 **Name/Surname:** Suleyman Bashirov <br>
-**Date Birhday:** 14/05/1995<br>
+**Date Birhday:** Tugilgan kunizi yozasiz<br>
 **From:** Uzbekistan(Tashkent)<br>
 
 
